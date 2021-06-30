@@ -48,14 +48,14 @@ p{font-family: Social;}
     h1{font-size: 3rem;}
     a{font-size: 1rem;}
     .container{margin-top: 14px;}
-    body{background: url(https://wallpapercave.com/w/wp2757844); background-size: cover;}
+    body{background: url(https://wallpapercave.com/wp/wp2757844.gif); background-size: cover;}
 }
 
 @media (min-width:600px) {
     a{font-size: 1.4rem;}
     h1{font-size: 3.5rem;}
     .container{margin-top: 2%;}
-    body{background: url(https://wallpapercave.com/w/wp2757844); background-size: cover;}
+    body{background: url(https://wallpapercave.com/wp/wp2757844.gif); background-size: cover;}
   
 }
 
